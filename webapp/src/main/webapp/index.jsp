@@ -1,6 +1,3 @@
-<h1> Hello, Welcome to My DevOps Demo !!! </h1>
-<h2> Deploying on AWS </h2>
-<h3> One last test </h3>
-<h4> By Aoddy </h4>
-<h5> Using Ansible !!</h5>
-<h6> Auto Build when modify code</h6>
+<h1> Hello, World !!! </h1>
+<h2> Welcome to Nu DevSecOps Workshop !!! </h1>
+
